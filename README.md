@@ -23,6 +23,8 @@
 - 📍 Based in **Bucharest, Romania** 🇷🇴
 - 💼 Senior Software Engineer specializing in **Cloud Architecture** and **Distributed Systems**
 - 🔧 Building enterprise-grade solutions with **AWS**, **Kubernetes**, and **Terraform**
+- 💰 **Building cost-effective infrastructure for startups** - Optimizing cloud spend while maintaining performance
+- 🛡️ **Security & Compliance Expert** - Ensuring infrastructure is **ISO 27001** and **SOC 2** compliant
 - 📝 I regularly write technical articles on [merfu.me/articles](https://www.merfu.me/articles)
 - 🎯 Currently focused on **LLM Infrastructure** and **AI/ML Operations**
 - 💡 Open to collaborating on **innovative AI/ML projects**
@@ -66,7 +68,7 @@
 
 ### Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -120,9 +122,14 @@
 ## 🏆 Achievements & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
   <img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISO%2027001-Compliance%20Expert-2ECC71?style=for-the-badge&logo=shield&logoColor=white" alt="ISO 27001" />
+  <img src="https://img.shields.io/badge/SOC%202-Compliance%20Expert-3498DB?style=for-the-badge&logo=security&logoColor=white" alt="SOC 2" />
 </p>
 
 ---
