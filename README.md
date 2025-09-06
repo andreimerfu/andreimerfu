@@ -8,7 +8,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-merfu.me-A855F7?style=for-the-badge&logo=safari&logoColor=white)](https://www.merfu.me)
   [![Twitter](https://img.shields.io/badge/Twitter-@merfu__andrei-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/merfu_andrei)
-  [![Email](https://img.shields.io/badge/Email-andrei@merfu.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei@amgital.com)
+  [![Email](https://img.shields.io/badge/Email-andrei@amgital.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei@amgital.com)
   [![GitHub followers](https://img.shields.io/github/followers/andreimerfu?label=Follow&style=for-the-badge&logo=github)](https://github.com/andreimerfu)
   
 </div>
