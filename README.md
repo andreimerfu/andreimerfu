@@ -146,6 +146,9 @@
   <a href="https://github.com/andreimerfu/rails-saas-kit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimerfu&repo=rails-saas-kit&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/andreimerfu/terraform-immich-hetzner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimerfu&repo=terraform-immich-hetzner&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
